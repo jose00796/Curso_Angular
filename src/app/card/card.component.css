@@ -1,0 +1,9 @@
+/*.image{
+    height: 10rem;
+    border: solid 1px black;
+}*/
+.wrapper-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: .2rem;
+    text-align: left;
+}
